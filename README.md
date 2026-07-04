@@ -20,23 +20,14 @@ A command-line Library Management System built in Python with MySQL database int
 Library-Management/
 
 ├── src/                  # All Python source files
-
-│   ├── main.py
-
-│   ├── db_connection.py
-
-│   ├── books.py
-
-│   ├── transactions.py
-
-│   └── reports.py
-
+│       ├── main.py
+│       ├── db_connection.py
+│       ├── books.py
+│       ├── transactions.py
+│       └── reports.py
 ├── requirements.txt       # Dependencies
-
 ├── schema.sql            # Database schema
-
 ├── README.md             # Documentation
-
 └── LICENSE               # License file (optional, e.g. MIT)
 
 
